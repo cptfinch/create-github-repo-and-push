@@ -4,7 +4,7 @@
 TARGET_DIR="/usr/local/bin"
 
 # Define the URL to the raw script file on GitHub
-SCRIPT_URL="https://raw.githubusercontent.com/your-username/your-repo/main/create_and_push_repo.sh"
+SCRIPT_URL="https://raw.githubusercontent.com/cptfinch/create-github-repo-and-push/create_and_push_repo.sh"
 
 # Define the script name
 SCRIPT_NAME="create_and_push_repo"
