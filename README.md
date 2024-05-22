@@ -1,3 +1,3 @@
 Install with:
 
-curl -s https://raw.githubusercontent.com/your-username/your-repo/main/install.sh | sh
+curl -s https://raw.githubusercontent.com/cptfinch/create-github-repo-and-push/main/install.sh | sh
